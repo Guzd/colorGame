@@ -1,4 +1,4 @@
 # colorGame
 
-Basic color game developed in JavaScript vainilla. 
+Basic color game developed in JavaScript vanilla. 
 
